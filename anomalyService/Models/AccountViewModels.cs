@@ -15,6 +15,7 @@ namespace anomalyService.Models
     }
 
 
+
     public class ManageInfoViewModel
     {
         public string LocalLoginProvider { get; set; }
